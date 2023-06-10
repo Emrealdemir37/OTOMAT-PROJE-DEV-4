@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTOMAT PROJE ÖDEVİ4", "OTOMAT PROJE ÖDEVİ4\OTOMAT PROJE ÖDEVİ4.csproj", "{1D4DEF0B-E715-431C-A94F-8E8FFC9A3DD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D4DEF0B-E715-431C-A94F-8E8FFC9A3DD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D4DEF0B-E715-431C-A94F-8E8FFC9A3DD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D4DEF0B-E715-431C-A94F-8E8FFC9A3DD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D4DEF0B-E715-431C-A94F-8E8FFC9A3DD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CF97BAF-8EED-42C6-86B2-21BB5B8D71E9}
+	EndGlobalSection
+EndGlobal
